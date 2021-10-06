@@ -1,3 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/typemod/.github/main/assets/tm-full-logo.png" />
+  <img id="logo" src="https://raw.githubusercontent.com/typemod/.github/main/assets/tm-full-logo.png" />
 </p>
+
+<style>
+  #logo {
+    width: 70%;
+   height: auto;
+  }
+</style>
